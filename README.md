@@ -2,6 +2,8 @@
 Learn here how to use flutter widgets with dynamic views. Some of the important widgets descriptions mentioned below that can helps you to better understanding.
 
 We covered below mentioned widgets properties
+
+
 1.Container
 2.Center
 3.Expended
