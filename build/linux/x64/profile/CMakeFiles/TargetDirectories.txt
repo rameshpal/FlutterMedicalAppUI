@@ -1,0 +1,14 @@
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/medicalappui.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/edit_cache.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/rebuild_cache.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/list_install_components.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/install.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/install/local.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/CMakeFiles/install/strip.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/flutter_assemble.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/edit_cache.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/rebuild_cache.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/list_install_components.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/install.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/install/local.dir
+/home/ramesh/FlutterProjects/medicalappui/build/linux/x64/profile/flutter/CMakeFiles/install/strip.dir
